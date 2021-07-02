@@ -21,3 +21,7 @@ p:nth-child(3){
     font-family: 'CharuChandanHardStroke', sans-serif;
 }
 
+span{
+    color: blue;
+}
+
